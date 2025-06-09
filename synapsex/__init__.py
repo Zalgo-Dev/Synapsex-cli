@@ -1,1 +1,1 @@
-# Init for synapsex package
+# synapsex/__init__.py
